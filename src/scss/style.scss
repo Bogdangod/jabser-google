@@ -22,10 +22,12 @@ $mainColor:#0ef;
 html{
 	font-size: 62.5%;
 	overflow-x: hidden;
+	scroll-behavior: smooth; 
 }
 body{
 	background: $bgColor;
-	color: $textColor
+	color: $textColor;
+	
 }
 
 @import 'header';
