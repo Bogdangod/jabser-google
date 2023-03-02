@@ -1,0 +1,13 @@
+.contacts {
+	background: $secondBgColor;
+	& h2 {
+		margin-bottom: 4rem;
+	}
+	& map {
+		width: 80vw;
+		margin: 0 auto;
+	}
+}
+iframe {
+	width: 100%;
+}
